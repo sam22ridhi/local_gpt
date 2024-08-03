@@ -1,7 +1,4 @@
-# local_gpt
-Here's a template for a `README.md` file for a local GPT project using LangChain, LLaMA 3, and ChatGroq, incorporating RAG (Retrieval-Augmented Generation) with multimodal capabilities (audio and vision).
 
-```markdown
 # Local GPT Project
 
 ## Overview
